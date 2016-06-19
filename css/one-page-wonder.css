@@ -48,10 +48,14 @@ body {
 }
 
 .featurette-image.pull-left {
+	height: 500px;
+	width: 500px;
     margin-right: 40px;
 }
 
 .featurette-image.pull-right {
+    height: 500px;
+    width: 500px;
     margin-left: 40px;
 }
 
