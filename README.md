@@ -1,2 +1,2 @@
-# nourish
-hosting for a static informational website 
+# *Nourish*
+Hosting for a static informational website.
