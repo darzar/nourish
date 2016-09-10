@@ -25,14 +25,14 @@ body {
 .headline h1 {
 	font-family: Apple Chancery;
     font-size: 130px;
-    color: #6eb663;
+    color: #229e54;
     /*background: #fff;
     background: rgba(255,255,255,0.9);*/
 }
 
 .headline h2 {
     font-size: 30px;
-    color: #6eb663; 
+    color:#229e54; 
     font-family: Tw Cen MT;
     /*background: #fff;
     background: rgba(255,255,255,0.9);*/
